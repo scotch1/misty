@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
-=======
-editing
-i'm editing this
-editing this
-i'm editing this, i'm editing this, i'm editing this, git
+Editing.
+I'm editing this, editing this
+I'm editing this, i'm editing this, i'm editing this, git
 master blaster
